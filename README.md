@@ -1,2 +1,2 @@
 # 📂 .github
-This is the GitHub organization conventional folder.
+This is the organization's conventional repository.
